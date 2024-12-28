@@ -1,0 +1,569 @@
+{
+    "AccountController":[
+        {
+            "name":"index_account",
+            "display_name":"View all accounts",
+            "description":"See all available accounts"
+        },
+        {
+            "name":"filter_index_account",
+            "display_name":"Filter accounts",
+            "description":"Filter through all available accounts"
+        },
+        {
+            "name":"search_index_account",
+            "display_name":"Search accounts",
+            "description":"Search through all available accounts"
+        },
+        {
+            "name":"show_account",
+            "display_name":"View account",
+            "description":"See a specific account"
+        },
+        {
+            "name":"update_account",
+            "display_name":"Edit a account",
+            "description":"Edit the details of a specific account"
+        },
+        {
+            "name":"delete_account",
+            "display_name":"Delete account",
+            "description":"Delete a specific account"
+        }
+    ],
+    "BenefitController":[
+        {
+            "name":"index_benefit",
+            "display_name":"View all benefits",
+            "description":"See all available benefits"
+        },
+        {
+            "name":"store_benefit",
+            "display_name":"Create benefit",
+            "description":"Create a benefit"
+        },
+        {
+            "name":"show_benefit",
+            "display_name":"View benefit",
+            "description":"See a specific benefit"
+        },
+        {
+            "name":"update_benefit",
+            "display_name":"Edit a benefit",
+            "description":"Edit the details of a specific benefit"
+        },
+        {
+            "name":"assign_benefit",
+            "display_name":"Assign benefit",
+            "description":"Assign a specific benefit to a payment plan"
+        },
+        {
+            "name":"retract_benefit",
+            "display_name":"Retract benefit",
+            "description":"Retract a specific benefit from a payment plan"
+        },
+        {
+            "name":"delete_benefit",
+            "display_name":"Delete benefit",
+            "description":"Delete a specific benefit"
+        }
+    ],
+    "BroadcastController":[
+        {
+            "name":"index_broadcast",
+            "display_name":"View all broadcasts",
+            "description":"See all available broadcasts"
+        },
+        {
+            "name":"filter_index_broadcast",
+            "display_name":"Filter broadcasts",
+            "description":"Filter through all available broadcasts"
+        },
+        {
+            "name":"search_index_broadcast",
+            "display_name":"Search broadcasts",
+            "description":"Search through all available broadcasts"
+        },
+        {
+            "name":"show_broadcast",
+            "display_name":"View broadcast",
+            "description":"See a specific broadcast"
+        },
+        {
+            "name":"update_broadcast",
+            "display_name":"Edit a broadcast",
+            "description":"Edit the details of a specific broadcast"
+        },
+        {
+            "name":"broadcast_placeholder_index",
+            "display_name":"View all broadcast placeholders",
+            "description":"See all available broadcast placeholders"
+        },
+        {
+            "name":"broadcast_placeholder_update",
+            "display_name":"Edit broadcast placeholders",
+            "description":"Edit the details of broadcasts placeholders"
+        },
+        {
+            "name":"delete_broadcast",
+            "display_name":"Delete broadcast",
+            "description":"Delete a specific broadcast"
+        }
+    ],
+    "BroadcastTemplateController":[
+        {
+            "name":"index_broadcast_template",
+            "display_name":"View all broadcast templates",
+            "description":"See all available broadcast templates"
+        },
+        {
+            "name":"filter_index_broadcast_template",
+            "display_name":"Filter broadcast templates",
+            "description":"Filter through all available broadcast templates"
+        },
+        {
+            "name":"search_index_broadcast_template",
+            "display_name":"Search broadcast templates",
+            "description":"Search through all available broadcast templates"
+        },
+        {
+            "name":"show_broadcast_template",
+            "display_name":"View broadcast",
+            "description":"See a specific broadcast template"
+        },
+        {
+            "name":"update_broadcast_template",
+            "display_name":"Edit a broadcast template",
+            "description":"Edit the details of a specific broadcast template"
+        },
+        {
+            "name":"delete_broadcast_template",
+            "display_name":"Delete broadcast template",
+            "description":"Delete a specific broadcast template"
+        }
+    ],
+    "BrowserController":[
+        {
+            "name":"index_browser",
+            "display_name":"View all browsers",
+            "description":"See all available browsers"
+        },
+        {
+            "name":"filter_index_browser",
+            "display_name":"Filter browsers",
+            "description":"Filter through all available browsers"
+        },
+        {
+            "name":"search_index_browser",
+            "display_name":"Search browsers",
+            "description":"Search through all available browsers"
+        },
+        {
+            "name":"store_browser",
+            "display_name":"Create browser",
+            "description":"Create a browser"
+        },
+        {
+            "name":"show_browser",
+            "display_name":"View browser",
+            "description":"See a specific browser"
+        },
+        {
+            "name":"update_browser",
+            "display_name":"Edit a browser",
+            "description":"Edit the details of a specific browser"
+        },
+        {
+            "name":"close_browser_as_management",
+            "display_name":"Close a browser",
+            "description":"Close a specific browser"
+        },
+        {
+            "name":"open_browser_as_management",
+            "display_name":"Open a browser",
+            "description":"Open a specific browser"
+        },
+        {
+            "name":"delete_browser",
+            "display_name":"Delete browser",
+            "description":"Delete a specific browser"
+        }
+    ],
+    "CacheController":[
+        {
+            "name":"index_cache",
+            "display_name":"View cached data",
+            "description":"See all available data in application cache"
+        },
+        {
+            "name":"clear_cache",
+            "display_name":"Clear cached data",
+            "description":"Clear all available data in application cache"
+        }
+    ],
+    "ContactController":[
+        {
+            "name":"index_contact",
+            "display_name":"View all contacts",
+            "description":"See all available contacts"
+        },
+        {
+            "name":"filter_index_contact",
+            "display_name":"Filter contacts",
+            "description":"Filter through all available contacts"
+        },
+        {
+            "name":"search_index_contact",
+            "display_name":"Search contacts",
+            "description":"Search through all available contacts"
+        },
+        {
+            "name":"store_contact",
+            "display_name":"Create contact",
+            "description":"Create a contact"
+        },
+        {
+            "name":"show_contact",
+            "display_name":"View contact",
+            "description":"See a specific contact"
+        },
+        {
+            "name":"update_contact",
+            "display_name":"Edit a contact",
+            "description":"Edit the details of a specific contact"
+        },
+        {
+            "name":"delete_contact",
+            "display_name":"Delete contact",
+            "description":"Delete a specific contact"
+        }
+    ],
+    "EmbeddedFormController":[
+        {
+            "name":"index_embedded_form",
+            "display_name":"View all embedded forms",
+            "description":"See all available embedded forms"
+        },
+        {
+            "name":"filter_index_embedded_form",
+            "display_name":"Filter embedded forms",
+            "description":"Filter through all available embedded forms"
+        },
+        {
+            "name":"search_index_embedded_form",
+            "display_name":"Search embedded forms",
+            "description":"Search through all available embedded forms"
+        },
+        {
+            "name":"store_embedded_form",
+            "display_name":"Create embedded form",
+            "description":"Create an embedded form"
+        },
+        {
+            "name":"show_embedded_form",
+            "display_name":"View embedded form",
+            "description":"See a specific embedded form"
+        },
+        {
+            "name":"update_embedded_form",
+            "display_name":"Edit an embedded form",
+            "description":"Edit the details of a specific embedded form"
+        },
+        {
+            "name":"delete_embedded_form",
+            "display_name":"Delete embedded form",
+            "description":"Delete a specific embedded form"
+        }
+    ],
+    "GroupController":[
+        {
+            "name":"index_group",
+            "display_name":"View all groups",
+            "description":"See all available groups"
+        },
+        {
+            "name":"filter_index_group",
+            "display_name":"Filter groups",
+            "description":"Filter through all available groups"
+        },
+        {
+            "name":"search_index_group",
+            "display_name":"Search groups",
+            "description":"Search through all available groups"
+        },
+        {
+            "name":"show_group",
+            "display_name":"View group",
+            "description":"See a specific group"
+        },
+        {
+            "name":"store_group",
+            "display_name":"Create group",
+            "description":"Create a group"
+        },
+        {
+            "name":"update_group",
+            "display_name":"Edit a group",
+            "description":"Edit the details of a specific group"
+        },
+        {
+            "name":"delete_group",
+            "display_name":"Delete group",
+            "description":"Delete a specific group"
+        }
+    ],
+    "PaymentController":[
+        {
+            "name":"index_payment",
+            "display_name":"View all payments",
+            "description":"See all available payments"
+        },
+        {
+            "name":"filter_index_payment",
+            "display_name":"Filter payments",
+            "description":"Filter through all available payments"
+        },
+        {
+            "name":"search_index_payment",
+            "display_name":"Search payments",
+            "description":"Search through all available payments"
+        },
+        {
+            "name":"show_payment",
+            "display_name":"View payment",
+            "description":"See a specific payment"
+        },
+        {
+            "name":"store_payment",
+            "display_name":"Create payment",
+            "description":"Create a payment"
+        },
+        {
+            "name":"update_payment",
+            "display_name":"Edit a payment",
+            "description":"Edit the details of a specific payment"
+        },
+        {
+            "name":"delete_payment",
+            "display_name":"Delete payment",
+            "description":"Delete a specific payment"
+        }
+    ],
+    "PaymentPlanController":[
+        {
+            "name":"index_payment_plan",
+            "display_name":"View all payment plans",
+            "description":"See all available payment plans"
+        },
+        {
+            "name":"filter_index_payment_plan",
+            "display_name":"Filter payment plans",
+            "description":"Filter through all available payment plans"
+        },
+        {
+            "name":"search_index_payment_plan",
+            "display_name":"Search payment plans",
+            "description":"Search through all available payment plans"
+        },
+        {
+            "name":"show_payment_plan",
+            "display_name":"View payment plan",
+            "description":"See a specific payment plan"
+        },
+        {
+            "name":"store_payment_plan",
+            "display_name":"Create payment plan",
+            "description":"Create a payment plan"
+        },
+        {
+            "name":"unapprove_payment_plan_as_management",
+            "display_name":"Unapprove payment plan by management",
+            "description":"Unapprove a specific payment plan in a business as management"
+        },
+        {
+            "name":"approve_payment_plan_as_management",
+            "display_name":"Approve payment plan by management",
+            "description":"Approve a specific payment plan for a business as management"
+        },
+        {
+            "name":"update_payment_plan",
+            "display_name":"Edit a payment plan",
+            "description":"Edit the details of a specific payment plan"
+        },
+        {
+            "name":"delete_payment_plan",
+            "display_name":"Delete payment plan",
+            "description":"Delete a specific payment plan"
+        }
+    ],
+    "PermissionController":[
+        {
+            "name":"index_permission",
+            "display_name":"View all permissions",
+            "description":"See all available permissions"
+        },
+        {
+            "name":"store_permission",
+            "display_name":"Create permission",
+            "description":"Create a permission"
+        },
+        {
+            "name":"show_permission",
+            "display_name":"View permission",
+            "description":"See a specific permission"
+        },
+        {
+            "name":"update_permission",
+            "display_name":"Edit a permission",
+            "description":"Edit the details of a specific permission"
+        },
+        {
+            "name":"assign_permission",
+            "display_name":"Assign permission",
+            "description":"Assign a specific permission to a role"
+        },
+        {
+            "name":"retract_permission",
+            "display_name":"Retract permission",
+            "description":"Retract a specific permission from a role"
+        },
+        {
+            "name":"delete_permission",
+            "display_name":"Delete permission",
+            "description":"Delete a specific permission"
+        }
+    ],
+    "RoleController":[
+        {
+            "name":"index_role",
+            "display_name":"View all roles",
+            "description":"See all available roles"
+        },
+        {
+            "name":"store_role",
+            "display_name":"Create role",
+            "description":"Create a role"
+        },
+        {
+            "name":"show_role",
+            "display_name":"View role",
+            "description":"See a specific role"
+        },
+        {
+            "name":"update_role",
+            "display_name":"Edit a role",
+            "description":"Edit the details of a specific role"
+        },
+        {
+            "name":"assign_role",
+            "display_name":"Assign role",
+            "description":"Assign a specific role to a user"
+        },
+        {
+            "name":"retract_role",
+            "display_name":"Retract role",
+            "description":"Retract a specific role from a user"
+        },
+        {
+            "name":"delete_role",
+            "display_name":"Delete role",
+            "description":"Delete a specific role"
+        }
+    ],
+    "StatisticsController":[
+        {
+            "name":"general_statistics",
+            "display_name":"View general statistics",
+            "description":"See all general statistics of application"
+        },
+        {
+            "name":"user_statistics",
+            "display_name":"View user statistics",
+            "description":"See all statistics of a user"
+        }  
+    ],
+    "SettingController":[
+        {
+            "name":"index_setting",
+            "display_name":"View all settings",
+            "description":"See all available settings"
+        },
+        {
+            "name":"filter_index_setting",
+            "display_name":"Filter settings",
+            "description":"Filter through all available settings"
+        },
+        {
+            "name":"search_index_setting",
+            "display_name":"Search settings",
+            "description":"Search through all available settings"
+        },
+        {
+            "name":"show_setting",
+            "display_name":"View setting",
+            "description":"See a specific setting"
+        },
+        {
+            "name":"update_setting",
+            "display_name":"Edit a setting",
+            "description":"Edit the details of a specific setting"
+        },
+        {
+            "name":"delete_setting",
+            "display_name":"Delete setting",
+            "description":"Delete a specific setting"
+        }
+    ],
+    "UserController":[
+        {
+            "name":"index_user",
+            "display_name":"View all users",
+            "description":"See all available users"
+        },
+        {
+            "name":"filter_index_user",
+            "display_name":"Filter users",
+            "description":"Filter through all available users"
+        },
+        {
+            "name":"search_index_user",
+            "display_name":"Search users",
+            "description":"Search through all available users"
+        },
+        {
+            "name":"show_user",
+            "display_name":"View user",
+            "description":"See a specific user details"
+        },
+        {
+            "name":"show_role_permission",
+            "display_name":"View user role",
+            "description":"See a specific user roles and permissions"
+        },
+        {
+            "name":"relation_user",
+            "display_name":"View users with specific relations",
+            "description":"See users with specified relationships"
+        },
+        {
+            "name":"update_user",
+            "display_name":"Edit a user",
+            "description":"Edit the details of a specific user"
+        },
+        {
+            "name":"block_user",
+            "display_name":"Block a user",
+            "description":"Block a specific user from accessing the application"
+        },
+        {
+            "name":"unblock_user",
+            "display_name":"Un-Block a user",
+            "description":"Un-Block a user who has been previously blocked"
+        },
+        {
+            "name":"delete_user",
+            "display_name":"Delete user",
+            "description":"Delete a specific user"
+        }
+    ]
+}

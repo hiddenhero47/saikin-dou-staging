@@ -1,0 +1,2694 @@
+{
+    "currencies": [
+        {
+            "id": 1,
+            "country_id": 1,
+            "country_name": "Afghanistan",
+            "currency": "Afghani",
+            "alphabetic_code": "AFN",
+            "numeric_code": 971,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 2,
+            "country_id": 248,
+            "country_name": "Åland Islands",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 3,
+            "country_id": 2,
+            "country_name": "Albania",
+            "currency": "Lek",
+            "alphabetic_code": "ALL",
+            "numeric_code": 8,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 4,
+            "country_id": 3,
+            "country_name": "Algeria",
+            "currency": "Algerian Dinar",
+            "alphabetic_code": "DZD",
+            "numeric_code": 12,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 5,
+            "country_id": 4,
+            "country_name": "American Samoa",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 6,
+            "country_id": 5,
+            "country_name": "Andorra",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 7,
+            "country_id": 6,
+            "country_name": "Angola",
+            "currency": "Kwanza",
+            "alphabetic_code": "AOA",
+            "numeric_code": 973,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 8,
+            "country_id": 7,
+            "country_name": "Anguilla",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 9,
+            "country_id": 8,
+            "country_name": "Antarctica",
+            "currency": "Antarctic Dollar",
+            "alphabetic_code": "AAD",
+            "numeric_code": null,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 10,
+            "country_id": 9,
+            "country_name": "Antigua And Barbuda",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 11,
+            "country_id": 10,
+            "country_name": "Argentina",
+            "currency": "Argentine Peso",
+            "alphabetic_code": "ARS",
+            "numeric_code": 32,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 12,
+            "country_id": 11,
+            "country_name": "Armenia",
+            "currency": "Armenian Dram",
+            "alphabetic_code": "AMD",
+            "numeric_code": 51,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 13,
+            "country_id": 12,
+            "country_name": "Aruba",
+            "currency": "Aruban Florin",
+            "alphabetic_code": "AWG",
+            "numeric_code": 533,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 14,
+            "country_id": 13,
+            "country_name": "Australia",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 15,
+            "country_id": 14,
+            "country_name": "Austria",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 16,
+            "country_id": 15,
+            "country_name": "Azerbaijan",
+            "currency": "Azerbaijan Manat",
+            "alphabetic_code": "AZN",
+            "numeric_code": 944,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 17,
+            "country_id": 16,
+            "country_name": "Bahamas (The)",
+            "currency": "Bahamian Dollar",
+            "alphabetic_code": "BSD",
+            "numeric_code": 44,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 18,
+            "country_id": 17,
+            "country_name": "Bahrain",
+            "currency": "Bahraini Dinar",
+            "alphabetic_code": "BHD",
+            "numeric_code": 48,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 19,
+            "country_id": 18,
+            "country_name": "Bangladesh",
+            "currency": "Taka",
+            "alphabetic_code": "BDT",
+            "numeric_code": 50,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 20,
+            "country_id": 19,
+            "country_name": "Barbados",
+            "currency": "Barbados Dollar",
+            "alphabetic_code": "BBD",
+            "numeric_code": 52,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 21,
+            "country_id": 20,
+            "country_name": "Belarus",
+            "currency": "Belarusian Ruble",
+            "alphabetic_code": "BYN",
+            "numeric_code": 933,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 22,
+            "country_id": 21,
+            "country_name": "Belgium",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 23,
+            "country_id": 22,
+            "country_name": "Belize",
+            "currency": "Belize Dollar",
+            "alphabetic_code": "BZD",
+            "numeric_code": 84,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 24,
+            "country_id": 23,
+            "country_name": "Benin",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 25,
+            "country_id": 24,
+            "country_name": "Bermuda",
+            "currency": "Bermudian Dollar",
+            "alphabetic_code": "BMD",
+            "numeric_code": 60,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 26,
+            "country_id": 25,
+            "country_name": "Bhutan",
+            "currency": "Indian Rupee",
+            "alphabetic_code": "INR",
+            "numeric_code": 356,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 27,
+            "country_id": 25,
+            "country_name": "Bhutan",
+            "currency": "Ngultrum",
+            "alphabetic_code": "BTN",
+            "numeric_code": 64,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 28,
+            "country_id": 26,
+            "country_name": "Bolivia (Plurinational State Of)",
+            "currency": "Boliviano",
+            "alphabetic_code": "BOB",
+            "numeric_code": 68,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 29,
+            "country_id": 26,
+            "country_name": "Bolivia (Plurinational State Of)",
+            "currency": "Mvdol",
+            "alphabetic_code": "BOV",
+            "numeric_code": 984,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 30,
+            "country_id": 154,
+            "country_name": "Bonaire, Sint Eustatius And Saba",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 31,
+            "country_id": 27,
+            "country_name": "Bosnia And Herzegovina",
+            "currency": "Convertible Mark",
+            "alphabetic_code": "BAM",
+            "numeric_code": 977,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 32,
+            "country_id": 28,
+            "country_name": "Botswana",
+            "currency": "Pula",
+            "alphabetic_code": "BWP",
+            "numeric_code": 72,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 33,
+            "country_id": 29,
+            "country_name": "Bouvet Island",
+            "currency": "Norwegian Krone",
+            "alphabetic_code": "NOK",
+            "numeric_code": 578,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 34,
+            "country_id": 30,
+            "country_name": "Brazil",
+            "currency": "Brazilian Real",
+            "alphabetic_code": "BRL",
+            "numeric_code": 986,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 35,
+            "country_id": 31,
+            "country_name": "British Indian Ocean Territory (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 36,
+            "country_id": 32,
+            "country_name": "Brunei Darussalam",
+            "currency": "Brunei Dollar",
+            "alphabetic_code": "BND",
+            "numeric_code": 96,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 37,
+            "country_id": 33,
+            "country_name": "Bulgaria",
+            "currency": "Bulgarian Lev",
+            "alphabetic_code": "BGN",
+            "numeric_code": 975,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 38,
+            "country_id": 34,
+            "country_name": "Burkina Faso",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 39,
+            "country_id": 35,
+            "country_name": "Burundi",
+            "currency": "Burundi Franc",
+            "alphabetic_code": "BIF",
+            "numeric_code": 108,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 40,
+            "country_id": 39,
+            "country_name": "Cape Verde",
+            "currency": "Cabo Verde Escudo",
+            "alphabetic_code": "CVE",
+            "numeric_code": 132,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 41,
+            "country_id": 36,
+            "country_name": "Cambodia",
+            "currency": "Riel",
+            "alphabetic_code": "KHR",
+            "numeric_code": 116,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 42,
+            "country_id": 37,
+            "country_name": "Cameroon",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 43,
+            "country_id": 38,
+            "country_name": "Canada",
+            "currency": "Canadian Dollar",
+            "alphabetic_code": "CAD",
+            "numeric_code": 124,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 44,
+            "country_id": 40,
+            "country_name": "Cayman Islands (The)",
+            "currency": "Cayman Islands Dollar",
+            "alphabetic_code": "KYD",
+            "numeric_code": 136,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 45,
+            "country_id": 41,
+            "country_name": "Central African Republic (The)",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 46,
+            "country_id": 42,
+            "country_name": "Chad",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 47,
+            "country_id": 43,
+            "country_name": "Chile",
+            "currency": "Chilean Peso",
+            "alphabetic_code": "CLP",
+            "numeric_code": 152,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 48,
+            "country_id": 43,
+            "country_name": "Chile",
+            "currency": "Unidad de Fomento",
+            "alphabetic_code": "CLF",
+            "numeric_code": 990,
+            "minor_unit": "4",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 49,
+            "country_id": 44,
+            "country_name": "China",
+            "currency": "Yuan Renminbi",
+            "alphabetic_code": "CNY",
+            "numeric_code": 156,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 50,
+            "country_id": 45,
+            "country_name": "Christmas Island",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 51,
+            "country_id": 46,
+            "country_name": "Cocos (Keeling) Islands (The)",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 52,
+            "country_id": 47,
+            "country_name": "Colombia",
+            "currency": "Colombian Peso",
+            "alphabetic_code": "COP",
+            "numeric_code": 170,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 53,
+            "country_id": 47,
+            "country_name": "Colombia",
+            "currency": "Unidad de Valor Real",
+            "alphabetic_code": "COU",
+            "numeric_code": 970,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 54,
+            "country_id": 48,
+            "country_name": "Comoros (The)",
+            "currency": "Comorian Franc ",
+            "alphabetic_code": "KMF",
+            "numeric_code": 174,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 55,
+            "country_id": 50,
+            "country_name": "Congo (The Democratic Republic Of The)",
+            "currency": "Congolese Franc",
+            "alphabetic_code": "CDF",
+            "numeric_code": 976,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 56,
+            "country_id": 49,
+            "country_name": "Congo (The)",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 57,
+            "country_id": 51,
+            "country_name": "Cook Islands (The)",
+            "currency": "New Zealand Dollar",
+            "alphabetic_code": "NZD",
+            "numeric_code": 554,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 58,
+            "country_id": 52,
+            "country_name": "Costa Rica",
+            "currency": "Costa Rican Colon",
+            "alphabetic_code": "CRC",
+            "numeric_code": 188,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 59,
+            "country_id": 53,
+            "country_name": "Côte D'ivoire",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 60,
+            "country_id": 54,
+            "country_name": "Croatia",
+            "currency": "Kuna",
+            "alphabetic_code": "HRK",
+            "numeric_code": 191,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 61,
+            "country_id": 55,
+            "country_name": "Cuba",
+            "currency": "Cuban Peso",
+            "alphabetic_code": "CUP",
+            "numeric_code": 192,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 62,
+            "country_id": 55,
+            "country_name": "Cuba",
+            "currency": "Peso Convertible",
+            "alphabetic_code": "CUC",
+            "numeric_code": 931,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 63,
+            "country_id": 154,
+            "country_name": "Curaçao",
+            "currency": "Netherlands Antillean Guilder",
+            "alphabetic_code": "ANG",
+            "numeric_code": 532,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 64,
+            "country_id": 56,
+            "country_name": "Cyprus",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 65,
+            "country_id": 57,
+            "country_name": "Czech Republic",
+            "currency": "Czech Koruna",
+            "alphabetic_code": "CZK",
+            "numeric_code": 203,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 66,
+            "country_id": 58,
+            "country_name": "Denmark",
+            "currency": "Danish Krone",
+            "alphabetic_code": "DKK",
+            "numeric_code": 208,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 67,
+            "country_id": 59,
+            "country_name": "Djibouti",
+            "currency": "Djibouti Franc",
+            "alphabetic_code": "DJF",
+            "numeric_code": 262,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 68,
+            "country_id": 60,
+            "country_name": "Dominica",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 69,
+            "country_id": 61,
+            "country_name": "Dominican Republic (The)",
+            "currency": "Dominican Peso",
+            "alphabetic_code": "DOP",
+            "numeric_code": 214,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 70,
+            "country_id": 63,
+            "country_name": "Ecuador",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 71,
+            "country_id": 64,
+            "country_name": "Egypt",
+            "currency": "Egyptian Pound",
+            "alphabetic_code": "EGP",
+            "numeric_code": 818,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 72,
+            "country_id": 65,
+            "country_name": "El Salvador",
+            "currency": "El Salvador Colon",
+            "alphabetic_code": "SVC",
+            "numeric_code": 222,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 73,
+            "country_id": 65,
+            "country_name": "El Salvador",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 74,
+            "country_id": 66,
+            "country_name": "Equatorial Guinea",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 75,
+            "country_id": 67,
+            "country_name": "Eritrea",
+            "currency": "Nakfa",
+            "alphabetic_code": "ERN",
+            "numeric_code": 232,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 76,
+            "country_id": 68,
+            "country_name": "Estonia",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 77,
+            "country_id": 210,
+            "country_name": "Eswatini",
+            "currency": "Lilangeni",
+            "alphabetic_code": "SZL",
+            "numeric_code": 748,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 78,
+            "country_id": 69,
+            "country_name": "Ethiopia",
+            "currency": "Ethiopian Birr",
+            "alphabetic_code": "ETB",
+            "numeric_code": 230,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 79,
+            "country_id": "",
+            "country_name": "European Union",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 80,
+            "country_id": 71,
+            "country_name": "Falkland Islands (The) [Malvinas]",
+            "currency": "Falkland Islands Pound",
+            "alphabetic_code": "FKP",
+            "numeric_code": 238,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 81,
+            "country_id": 72,
+            "country_name": "Faroe Islands (The)",
+            "currency": "Danish Krone",
+            "alphabetic_code": "DKK",
+            "numeric_code": 208,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 82,
+            "country_id": 73,
+            "country_name": "Fiji Islands",
+            "currency": "Fiji Dollar",
+            "alphabetic_code": "FJD",
+            "numeric_code": 242,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 83,
+            "country_id": 74,
+            "country_name": "Finland",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 84,
+            "country_id": 75,
+            "country_name": "France",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 85,
+            "country_id": 76,
+            "country_name": "French Guiana",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 86,
+            "country_id": 77,
+            "country_name": "French Polynesia",
+            "currency": "CFP Franc",
+            "alphabetic_code": "XPF",
+            "numeric_code": 953,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 87,
+            "country_id": 78,
+            "country_name": "French Southern Territories (The)",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 88,
+            "country_id": 79,
+            "country_name": "Gabon",
+            "currency": "CFA Franc BEAC",
+            "alphabetic_code": "XAF",
+            "numeric_code": 950,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 89,
+            "country_id": 80,
+            "country_name": "Gambia (The)",
+            "currency": "Dalasi",
+            "alphabetic_code": "GMD",
+            "numeric_code": 270,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 90,
+            "country_id": 81,
+            "country_name": "Georgia",
+            "currency": "Lari",
+            "alphabetic_code": "GEL",
+            "numeric_code": 981,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 91,
+            "country_id": 82,
+            "country_name": "Germany",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 92,
+            "country_id": 83,
+            "country_name": "Ghana",
+            "currency": "Ghana Cedi",
+            "alphabetic_code": "GHS",
+            "numeric_code": 936,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 93,
+            "country_id": 84,
+            "country_name": "Gibraltar",
+            "currency": "Gibraltar Pound",
+            "alphabetic_code": "GIP",
+            "numeric_code": 292,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 94,
+            "country_id": 85,
+            "country_name": "Greece",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 95,
+            "country_id": 86,
+            "country_name": "Greenland",
+            "currency": "Danish Krone",
+            "alphabetic_code": "DKK",
+            "numeric_code": 208,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 96,
+            "country_id": 87,
+            "country_name": "Grenada",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 97,
+            "country_id": 88,
+            "country_name": "Guadeloupe",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 98,
+            "country_id": 89,
+            "country_name": "Guam",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 99,
+            "country_id": 90,
+            "country_name": "Guatemala",
+            "currency": "Quetzal",
+            "alphabetic_code": "GTQ",
+            "numeric_code": 320,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 100,
+            "country_id": 91,
+            "country_name": "Guernsey And Alderney",
+            "currency": "Pound Sterling",
+            "alphabetic_code": "GBP",
+            "numeric_code": 826,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 101,
+            "country_id": 92,
+            "country_name": "Guinea",
+            "currency": "Guinean Franc",
+            "alphabetic_code": "GNF",
+            "numeric_code": 324,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 102,
+            "country_id": 93,
+            "country_name": "Guinea-Bissau",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 103,
+            "country_id": 94,
+            "country_name": "Guyana",
+            "currency": "Guyana Dollar",
+            "alphabetic_code": "GYD",
+            "numeric_code": 328,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 104,
+            "country_id": 95,
+            "country_name": "Haiti",
+            "currency": "Gourde",
+            "alphabetic_code": "HTG",
+            "numeric_code": 332,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 105,
+            "country_id": 95,
+            "country_name": "Haiti",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 106,
+            "country_id": 96,
+            "country_name": "Heard Island And Mcdonald Islands",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 107,
+            "country_id": 236,
+            "country_name": "Vatican City State (Holy See)",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 108,
+            "country_id": 97,
+            "country_name": "Honduras",
+            "currency": "Lempira",
+            "alphabetic_code": "HNL",
+            "numeric_code": 340,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 109,
+            "country_id": 98,
+            "country_name": "Hong Kong",
+            "currency": "Hong Kong Dollar",
+            "alphabetic_code": "HKD",
+            "numeric_code": 344,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 110,
+            "country_id": 99,
+            "country_name": "Hungary",
+            "currency": "Forint",
+            "alphabetic_code": "HUF",
+            "numeric_code": 348,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 111,
+            "country_id": 100,
+            "country_name": "Iceland",
+            "currency": "Iceland Krona",
+            "alphabetic_code": "ISK",
+            "numeric_code": 352,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 112,
+            "country_id": 101,
+            "country_name": "India",
+            "currency": "Indian Rupee",
+            "alphabetic_code": "INR",
+            "numeric_code": 356,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 113,
+            "country_id": 102,
+            "country_name": "Indonesia",
+            "currency": "Rupiah",
+            "alphabetic_code": "IDR",
+            "numeric_code": 360,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 114,
+            "country_id": "",
+            "country_name": "International Monetary Fund (Imf)",
+            "currency": "SDR (Special Drawing Right)",
+            "alphabetic_code": "XDR",
+            "numeric_code": 960,
+            "minor_unit": "-",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 115,
+            "country_id": 103,
+            "country_name": "Iran (Islamic Republic Of)",
+            "currency": "Iranian Rial",
+            "alphabetic_code": "IRR",
+            "numeric_code": 364,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 116,
+            "country_id": 104,
+            "country_name": "Iraq",
+            "currency": "Iraqi Dinar",
+            "alphabetic_code": "IQD",
+            "numeric_code": 368,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 117,
+            "country_id": 105,
+            "country_name": "Ireland",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 118,
+            "country_id": 136,
+            "country_name": "Isle Of Man",
+            "currency": "Pound Sterling",
+            "alphabetic_code": "GBP",
+            "numeric_code": 826,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 119,
+            "country_id": 106,
+            "country_name": "Israel",
+            "currency": "New Israeli Sheqel",
+            "alphabetic_code": "ILS",
+            "numeric_code": 376,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 120,
+            "country_id": 107,
+            "country_name": "Italy",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 121,
+            "country_id": 108,
+            "country_name": "Jamaica",
+            "currency": "Jamaican Dollar",
+            "alphabetic_code": "JMD",
+            "numeric_code": 388,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 122,
+            "country_id": 109,
+            "country_name": "Japan",
+            "currency": "Yen",
+            "alphabetic_code": "JPY",
+            "numeric_code": 392,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 123,
+            "country_id": 110,
+            "country_name": "Jersey",
+            "currency": "Pound Sterling",
+            "alphabetic_code": "GBP",
+            "numeric_code": 826,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 124,
+            "country_id": 111,
+            "country_name": "Jordan",
+            "currency": "Jordanian Dinar",
+            "alphabetic_code": "JOD",
+            "numeric_code": 400,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 125,
+            "country_id": 112,
+            "country_name": "Kazakhstan",
+            "currency": "Tenge",
+            "alphabetic_code": "KZT",
+            "numeric_code": 398,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 126,
+            "country_id": 113,
+            "country_name": "Kenya",
+            "currency": "Kenyan Shilling",
+            "alphabetic_code": "KES",
+            "numeric_code": 404,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 127,
+            "country_id": 114,
+            "country_name": "Kiribati",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 128,
+            "country_id": 115,
+            "country_name": "Korea (The Democratic People's Republic Of)",
+            "currency": "North Korean Won",
+            "alphabetic_code": "KPW",
+            "numeric_code": 408,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 129,
+            "country_id": 116,
+            "country_name": "South Korea (The Republic Of)",
+            "currency": "Won",
+            "alphabetic_code": "KRW",
+            "numeric_code": 410,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 130,
+            "country_id": 117,
+            "country_name": "Kuwait",
+            "currency": "Kuwaiti Dinar",
+            "alphabetic_code": "KWD",
+            "numeric_code": 414,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 131,
+            "country_id": 118,
+            "country_name": "Kyrgyzstan",
+            "currency": "Som",
+            "alphabetic_code": "KGS",
+            "numeric_code": 417,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 132,
+            "country_id": 119,
+            "country_name": "Lao People's Democratic Republic (The)",
+            "currency": "Lao Kip",
+            "alphabetic_code": "LAK",
+            "numeric_code": 418,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 133,
+            "country_id": 120,
+            "country_name": "Latvia",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 134,
+            "country_id": 121,
+            "country_name": "Lebanon",
+            "currency": "Lebanese Pound",
+            "alphabetic_code": "LBP",
+            "numeric_code": 422,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 135,
+            "country_id": 122,
+            "country_name": "Lesotho",
+            "currency": "Loti",
+            "alphabetic_code": "LSL",
+            "numeric_code": 426,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 136,
+            "country_id": 122,
+            "country_name": "Lesotho",
+            "currency": "Rand",
+            "alphabetic_code": "ZAR",
+            "numeric_code": 710,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 137,
+            "country_id": 123,
+            "country_name": "Liberia",
+            "currency": "Liberian Dollar",
+            "alphabetic_code": "LRD",
+            "numeric_code": 430,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 138,
+            "country_id": 124,
+            "country_name": "Libya",
+            "currency": "Libyan Dinar",
+            "alphabetic_code": "LYD",
+            "numeric_code": 434,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 139,
+            "country_id": 125,
+            "country_name": "Liechtenstein",
+            "currency": "Swiss Franc",
+            "alphabetic_code": "CHF",
+            "numeric_code": 756,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 140,
+            "country_id": 126,
+            "country_name": "Lithuania",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 141,
+            "country_id": 127,
+            "country_name": "Luxembourg",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 142,
+            "country_id": 128,
+            "country_name": "Macau",
+            "currency": "Pataca",
+            "alphabetic_code": "MOP",
+            "numeric_code": 446,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 143,
+            "country_id": 129,
+            "country_name": "North Macedonia",
+            "currency": "Denar",
+            "alphabetic_code": "MKD",
+            "numeric_code": 807,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 144,
+            "country_id": 130,
+            "country_name": "Madagascar",
+            "currency": "Malagasy Ariary",
+            "alphabetic_code": "MGA",
+            "numeric_code": 969,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 145,
+            "country_id": 131,
+            "country_name": "Malawi",
+            "currency": "Malawi Kwacha",
+            "alphabetic_code": "MWK",
+            "numeric_code": 454,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 146,
+            "country_id": 132,
+            "country_name": "Malaysia",
+            "currency": "Malaysian Ringgit",
+            "alphabetic_code": "MYR",
+            "numeric_code": 458,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 147,
+            "country_id": 133,
+            "country_name": "Maldives",
+            "currency": "Rufiyaa",
+            "alphabetic_code": "MVR",
+            "numeric_code": 462,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 148,
+            "country_id": 134,
+            "country_name": "Mali",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 149,
+            "country_id": 135,
+            "country_name": "Malta",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 150,
+            "country_id": 137,
+            "country_name": "Marshall Islands (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 151,
+            "country_id": 138,
+            "country_name": "Martinique",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 152,
+            "country_id": 139,
+            "country_name": "Mauritania",
+            "currency": "Ouguiya",
+            "alphabetic_code": "MRU",
+            "numeric_code": 929,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 153,
+            "country_id": 140,
+            "country_name": "Mauritius",
+            "currency": "Mauritius Rupee",
+            "alphabetic_code": "MUR",
+            "numeric_code": 480,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 154,
+            "country_id": 141,
+            "country_name": "Mayotte",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 155,
+            "country_id": "",
+            "country_name": "Member Countries Of The African Development Bank Group",
+            "currency": "ADB Unit of Account",
+            "alphabetic_code": "XUA",
+            "numeric_code": 965,
+            "minor_unit": "-",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 156,
+            "country_id": 142,
+            "country_name": "Mexico",
+            "currency": "Mexican Peso",
+            "alphabetic_code": "MXN",
+            "numeric_code": 484,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 157,
+            "country_id": 142,
+            "country_name": "Mexico",
+            "currency": "Mexican Unidad de Inversion (UDI)",
+            "alphabetic_code": "MXV",
+            "numeric_code": 979,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 158,
+            "country_id": 143,
+            "country_name": "Micronesia (Federated States Of)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 159,
+            "country_id": 144,
+            "country_name": "Moldova (The Republic Of)",
+            "currency": "Moldovan Leu",
+            "alphabetic_code": "MDL",
+            "numeric_code": 498,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 160,
+            "country_id": 145,
+            "country_name": "Monaco",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 161,
+            "country_id": 146,
+            "country_name": "Mongolia",
+            "currency": "Tugrik",
+            "alphabetic_code": "MNT",
+            "numeric_code": 496,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 162,
+            "country_id": 247,
+            "country_name": "Montenegro",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 163,
+            "country_id": 147,
+            "country_name": "Montserrat",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 164,
+            "country_id": 148,
+            "country_name": "Morocco",
+            "currency": "Moroccan Dirham",
+            "alphabetic_code": "MAD",
+            "numeric_code": 504,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 165,
+            "country_id": 149,
+            "country_name": "Mozambique",
+            "currency": "Mozambique Metical",
+            "alphabetic_code": "MZN",
+            "numeric_code": 943,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 166,
+            "country_id": 150,
+            "country_name": "Myanmar",
+            "currency": "Kyat",
+            "alphabetic_code": "MMK",
+            "numeric_code": 104,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 167,
+            "country_id": 151,
+            "country_name": "Namibia",
+            "currency": "Namibia Dollar",
+            "alphabetic_code": "NAD",
+            "numeric_code": 516,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 168,
+            "country_id": 151,
+            "country_name": "Namibia",
+            "currency": "Rand",
+            "alphabetic_code": "ZAR",
+            "numeric_code": 710,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 169,
+            "country_id": 152,
+            "country_name": "Nauru",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 170,
+            "country_id": 153,
+            "country_name": "Nepal",
+            "currency": "Nepalese Rupee",
+            "alphabetic_code": "NPR",
+            "numeric_code": 524,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 171,
+            "country_id": 155,
+            "country_name": "Netherlands (The)",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 172,
+            "country_id": 156,
+            "country_name": "New Caledonia",
+            "currency": "CFP Franc",
+            "alphabetic_code": "XPF",
+            "numeric_code": 953,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 173,
+            "country_id": 157,
+            "country_name": "New Zealand",
+            "currency": "New Zealand Dollar",
+            "alphabetic_code": "NZD",
+            "numeric_code": 554,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 174,
+            "country_id": 158,
+            "country_name": "Nicaragua",
+            "currency": "Cordoba Oro",
+            "alphabetic_code": "NIO",
+            "numeric_code": 558,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 175,
+            "country_id": 159,
+            "country_name": "Niger (The)",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 176,
+            "country_id": 160,
+            "country_name": "Nigeria",
+            "currency": "Naira",
+            "alphabetic_code": "NGN",
+            "numeric_code": 566,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 177,
+            "country_id": 161,
+            "country_name": "Niue",
+            "currency": "New Zealand Dollar",
+            "alphabetic_code": "NZD",
+            "numeric_code": 554,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 178,
+            "country_id": 162,
+            "country_name": "Norfolk Island",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 179,
+            "country_id": "",
+            "country_name": "Northern Mariana Islands (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 180,
+            "country_id": 164,
+            "country_name": "Norway",
+            "currency": "Norwegian Krone",
+            "alphabetic_code": "NOK",
+            "numeric_code": 578,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 181,
+            "country_id": 165,
+            "country_name": "Oman",
+            "currency": "Rial Omani",
+            "alphabetic_code": "OMR",
+            "numeric_code": 512,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 182,
+            "country_id": 166,
+            "country_name": "Pakistan",
+            "currency": "Pakistan Rupee",
+            "alphabetic_code": "PKR",
+            "numeric_code": 586,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 183,
+            "country_id": 167,
+            "country_name": "Palau",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 184,
+            "country_id": 168,
+            "country_name": "Palestine, State Of",
+            "currency": "No universal currency",
+            "alphabetic_code": "",
+            "numeric_code": null,
+            "minor_unit": "",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 185,
+            "country_id": 169,
+            "country_name": "Panama",
+            "currency": "Balboa",
+            "alphabetic_code": "PAB",
+            "numeric_code": 590,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 186,
+            "country_id": 169,
+            "country_name": "Panama",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 187,
+            "country_id": 170,
+            "country_name": "Papua New Guinea",
+            "currency": "Kina",
+            "alphabetic_code": "PGK",
+            "numeric_code": 598,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 188,
+            "country_id": 171,
+            "country_name": "Paraguay",
+            "currency": "Guarani",
+            "alphabetic_code": "PYG",
+            "numeric_code": 600,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 189,
+            "country_id": 172,
+            "country_name": "Peru",
+            "currency": "Sol",
+            "alphabetic_code": "PEN",
+            "numeric_code": 604,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 190,
+            "country_id": 173,
+            "country_name": "Philippines (The)",
+            "currency": "Philippine Peso",
+            "alphabetic_code": "PHP",
+            "numeric_code": 608,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 191,
+            "country_id": 174,
+            "country_name": "Pitcairn Island",
+            "currency": "New Zealand Dollar",
+            "alphabetic_code": "NZD",
+            "numeric_code": 554,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 192,
+            "country_id": 175,
+            "country_name": "Poland",
+            "currency": "Zloty",
+            "alphabetic_code": "PLN",
+            "numeric_code": 985,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 193,
+            "country_id": 176,
+            "country_name": "Portugal",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 194,
+            "country_id": 177,
+            "country_name": "Puerto Rico",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 195,
+            "country_id": 178,
+            "country_name": "Qatar",
+            "currency": "Qatari Rial",
+            "alphabetic_code": "QAR",
+            "numeric_code": 634,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 196,
+            "country_id": 179,
+            "country_name": "Réunion",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 197,
+            "country_id": 180,
+            "country_name": "Romania",
+            "currency": "Romanian Leu",
+            "alphabetic_code": "RON",
+            "numeric_code": 946,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 198,
+            "country_id": 181,
+            "country_name": "Russian Federation (The)",
+            "currency": "Russian Ruble",
+            "alphabetic_code": "RUB",
+            "numeric_code": 643,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 199,
+            "country_id": 182,
+            "country_name": "Rwanda",
+            "currency": "Rwanda Franc",
+            "alphabetic_code": "RWF",
+            "numeric_code": 646,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 200,
+            "country_id": 154,
+            "country_name": "Saint Barthélemy",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 201,
+            "country_id": 183,
+            "country_name": "Saint Helena, Ascension And Tristan Da Cunha",
+            "currency": "Saint Helena Pound",
+            "alphabetic_code": "SHP",
+            "numeric_code": 654,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 202,
+            "country_id": 184,
+            "country_name": "Saint Kitts And Nevis",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 203,
+            "country_id": 185,
+            "country_name": "Saint Lucia",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 204,
+            "country_id": 154,
+            "country_name": "Saint Martin (French Part)",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 205,
+            "country_id": 186,
+            "country_name": "Saint Pierre And Miquelon",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 206,
+            "country_id": 187,
+            "country_name": "Saint Vincent And The Grenadines",
+            "currency": "East Caribbean Dollar",
+            "alphabetic_code": "XCD",
+            "numeric_code": 951,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 207,
+            "country_id": 188,
+            "country_name": "Samoa",
+            "currency": "Tala",
+            "alphabetic_code": "WST",
+            "numeric_code": 882,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 208,
+            "country_id": 189,
+            "country_name": "San Marino",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 209,
+            "country_id": 190,
+            "country_name": "Sao Tome And Principe",
+            "currency": "Dobra",
+            "alphabetic_code": "STN",
+            "numeric_code": 930,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 210,
+            "country_id": 191,
+            "country_name": "Saudi Arabia",
+            "currency": "Saudi Riyal",
+            "alphabetic_code": "SAR",
+            "numeric_code": 682,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 211,
+            "country_id": 192,
+            "country_name": "Senegal",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 212,
+            "country_id": 193,
+            "country_name": "Serbia",
+            "currency": "Serbian Dinar",
+            "alphabetic_code": "RSD",
+            "numeric_code": 941,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 213,
+            "country_id": 194,
+            "country_name": "Seychelles",
+            "currency": "Seychelles Rupee",
+            "alphabetic_code": "SCR",
+            "numeric_code": 690,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 214,
+            "country_id": 195,
+            "country_name": "Sierra Leone",
+            "currency": "Leone",
+            "alphabetic_code": "SLL",
+            "numeric_code": 694,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 215,
+            "country_id": 196,
+            "country_name": "Singapore",
+            "currency": "Singapore Dollar",
+            "alphabetic_code": "SGD",
+            "numeric_code": 702,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 216,
+            "country_id": 154,
+            "country_name": "Sint Maarten (Dutch Part)",
+            "currency": "Netherlands Antillean Guilder",
+            "alphabetic_code": "ANG",
+            "numeric_code": 532,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 217,
+            "country_id": "",
+            "country_name": "Sistema Unitario De Compensacion Regional De Pagos 'Sucre'",
+            "currency": "Sucre",
+            "alphabetic_code": "XSU",
+            "numeric_code": 994,
+            "minor_unit": "-",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 218,
+            "country_id": 197,
+            "country_name": "Slovakia",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 219,
+            "country_id": 198,
+            "country_name": "Slovenia",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 220,
+            "country_id": 200,
+            "country_name": "Solomon Islands",
+            "currency": "Solomon Islands Dollar",
+            "alphabetic_code": "SBD",
+            "numeric_code": 90,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 221,
+            "country_id": 201,
+            "country_name": "Somalia",
+            "currency": "Somali Shilling",
+            "alphabetic_code": "SOS",
+            "numeric_code": 706,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 222,
+            "country_id": 202,
+            "country_name": "South Africa",
+            "currency": "Rand",
+            "alphabetic_code": "ZAR",
+            "numeric_code": 710,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 223,
+            "country_id": 203,
+            "country_name": "South Georgia And The South Sandwich Islands",
+            "currency": "No universal currency",
+            "alphabetic_code": "",
+            "numeric_code": null,
+            "minor_unit": "",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 224,
+            "country_id": 204,
+            "country_name": "South Sudan",
+            "currency": "South Sudanese Pound",
+            "alphabetic_code": "SSP",
+            "numeric_code": 728,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 225,
+            "country_id": 205,
+            "country_name": "Spain",
+            "currency": "Euro",
+            "alphabetic_code": "EUR",
+            "numeric_code": 978,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 226,
+            "country_id": 206,
+            "country_name": "Sri Lanka",
+            "currency": "Sri Lanka Rupee",
+            "alphabetic_code": "LKR",
+            "numeric_code": 144,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 227,
+            "country_id": 207,
+            "country_name": "Sudan (The)",
+            "currency": "Sudanese Pound",
+            "alphabetic_code": "SDG",
+            "numeric_code": 938,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 228,
+            "country_id": 208,
+            "country_name": "Suriname",
+            "currency": "Surinam Dollar",
+            "alphabetic_code": "SRD",
+            "numeric_code": 968,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 229,
+            "country_id": 209,
+            "country_name": "Svalbard And Jan Mayen Islands",
+            "currency": "Norwegian Krone",
+            "alphabetic_code": "NOK",
+            "numeric_code": 578,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 230,
+            "country_id": 211,
+            "country_name": "Sweden",
+            "currency": "Swedish Krona",
+            "alphabetic_code": "SEK",
+            "numeric_code": 752,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 231,
+            "country_id": 212,
+            "country_name": "Switzerland",
+            "currency": "Swiss Franc",
+            "alphabetic_code": "CHF",
+            "numeric_code": 756,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 232,
+            "country_id": 212,
+            "country_name": "Switzerland",
+            "currency": "WIR Euro",
+            "alphabetic_code": "CHE",
+            "numeric_code": 947,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 233,
+            "country_id": 212,
+            "country_name": "Switzerland",
+            "currency": "WIR Franc",
+            "alphabetic_code": "CHW",
+            "numeric_code": 948,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 234,
+            "country_id": 213,
+            "country_name": "Syrian Arab Republic",
+            "currency": "Syrian Pound",
+            "alphabetic_code": "SYP",
+            "numeric_code": 760,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 235,
+            "country_id": 214,
+            "country_name": "Taiwan (Province Of China)",
+            "currency": "New Taiwan Dollar",
+            "alphabetic_code": "TWD",
+            "numeric_code": 901,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 236,
+            "country_id": 215,
+            "country_name": "Tajikistan",
+            "currency": "Somoni",
+            "alphabetic_code": "TJS",
+            "numeric_code": 972,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 237,
+            "country_id": 216,
+            "country_name": "Tanzania, United Republic Of",
+            "currency": "Tanzanian Shilling",
+            "alphabetic_code": "TZS",
+            "numeric_code": 834,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 238,
+            "country_id": 217,
+            "country_name": "Thailand",
+            "currency": "Baht",
+            "alphabetic_code": "THB",
+            "numeric_code": 764,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 239,
+            "country_id": 62,
+            "country_name": "Timor-Leste",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 240,
+            "country_id": 218,
+            "country_name": "Togo",
+            "currency": "CFA Franc BCEAO",
+            "alphabetic_code": "XOF",
+            "numeric_code": 952,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 241,
+            "country_id": 219,
+            "country_name": "Tokelau",
+            "currency": "New Zealand Dollar",
+            "alphabetic_code": "NZD",
+            "numeric_code": 554,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 242,
+            "country_id": 220,
+            "country_name": "Tonga",
+            "currency": "Pa'anga",
+            "alphabetic_code": "TOP",
+            "numeric_code": 776,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 243,
+            "country_id": 221,
+            "country_name": "Trinidad And Tobago",
+            "currency": "Trinidad and Tobago Dollar",
+            "alphabetic_code": "TTD",
+            "numeric_code": 780,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 244,
+            "country_id": 222,
+            "country_name": "Tunisia",
+            "currency": "Tunisian Dinar",
+            "alphabetic_code": "TND",
+            "numeric_code": 788,
+            "minor_unit": "3",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 245,
+            "country_id": 223,
+            "country_name": "Turkey",
+            "currency": "Turkish Lira",
+            "alphabetic_code": "TRY",
+            "numeric_code": 949,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 246,
+            "country_id": 224,
+            "country_name": "Turkmenistan",
+            "currency": "Turkmenistan New Manat",
+            "alphabetic_code": "TMT",
+            "numeric_code": 934,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 247,
+            "country_id": 225,
+            "country_name": "Turks And Caicos Islands (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 248,
+            "country_id": 226,
+            "country_name": "Tuvalu",
+            "currency": "Australian Dollar",
+            "alphabetic_code": "AUD",
+            "numeric_code": 36,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 249,
+            "country_id": 227,
+            "country_name": "Uganda",
+            "currency": "Uganda Shilling",
+            "alphabetic_code": "UGX",
+            "numeric_code": 800,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 250,
+            "country_id": 228,
+            "country_name": "Ukraine",
+            "currency": "Hryvnia",
+            "alphabetic_code": "UAH",
+            "numeric_code": 980,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 251,
+            "country_id": 229,
+            "country_name": "United Arab Emirates (The)",
+            "currency": "UAE Dirham",
+            "alphabetic_code": "AED",
+            "numeric_code": 784,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 252,
+            "country_id": 230,
+            "country_name": "United Kingdom Of Great Britain And Northern Ireland (The)",
+            "currency": "Pound Sterling",
+            "alphabetic_code": "GBP",
+            "numeric_code": 826,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 253,
+            "country_id": 232,
+            "country_name": "United States Minor Outlying Islands (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 254,
+            "country_id": 231,
+            "country_name": "United States Of America (The)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 255,
+            "country_id": 231,
+            "country_name": "United States Of America (The)",
+            "currency": "US Dollar (Next day)",
+            "alphabetic_code": "USN",
+            "numeric_code": 997,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 256,
+            "country_id": 233,
+            "country_name": "Uruguay",
+            "currency": "Peso Uruguayo",
+            "alphabetic_code": "UYU",
+            "numeric_code": 858,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 257,
+            "country_id": 233,
+            "country_name": "Uruguay",
+            "currency": "Uruguay Peso en Unidades Indexadas (UI)",
+            "alphabetic_code": "UYI",
+            "numeric_code": 940,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 258,
+            "country_id": 233,
+            "country_name": "Uruguay",
+            "currency": "Unidad Previsional",
+            "alphabetic_code": "UYW",
+            "numeric_code": 927,
+            "minor_unit": "4",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 259,
+            "country_id": 234,
+            "country_name": "Uzbekistan",
+            "currency": "Uzbekistan Sum",
+            "alphabetic_code": "UZS",
+            "numeric_code": 860,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 260,
+            "country_id": 235,
+            "country_name": "Vanuatu",
+            "currency": "Vatu",
+            "alphabetic_code": "VUV",
+            "numeric_code": 548,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 261,
+            "country_id": 237,
+            "country_name": "Venezuela (Bolivarian Republic Of)",
+            "currency": "Bolívar Soberano",
+            "alphabetic_code": "VES",
+            "numeric_code": 928,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 262,
+            "country_id": 238,
+            "country_name": "Viet Nam (Vietnam)",
+            "currency": "Dong",
+            "alphabetic_code": "VND",
+            "numeric_code": 704,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 263,
+            "country_id": 239,
+            "country_name": "Virgin Islands (British)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 264,
+            "country_id": 240,
+            "country_name": "Virgin Islands (US)",
+            "currency": "US Dollar",
+            "alphabetic_code": "USD",
+            "numeric_code": 840,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 265,
+            "country_id": 241,
+            "country_name": "Wallis And Futuna Islands",
+            "currency": "CFP Franc",
+            "alphabetic_code": "XPF",
+            "numeric_code": 953,
+            "minor_unit": "0",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 266,
+            "country_id": 242,
+            "country_name": "Western Sahara",
+            "currency": "Moroccan Dirham",
+            "alphabetic_code": "MAD",
+            "numeric_code": 504,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 267,
+            "country_id": 243,
+            "country_name": "Yemen",
+            "currency": "Yemeni Rial",
+            "alphabetic_code": "YER",
+            "numeric_code": 886,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 268,
+            "country_id": 245,
+            "country_name": "Zambia",
+            "currency": "Zambian Kwacha",
+            "alphabetic_code": "ZMW",
+            "numeric_code": 967,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        },
+        {
+            "id": 269,
+            "country_id": 246,
+            "country_name": "Zimbabwe",
+            "currency": "Zimbabwe Dollar",
+            "alphabetic_code": "ZWL",
+            "numeric_code": 932,
+            "minor_unit": "2",
+            "withdrawal_date": ""
+        }
+    ]
+}

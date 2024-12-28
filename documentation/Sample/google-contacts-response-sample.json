@@ -1,0 +1,368 @@
+{
+    "data": [
+        {
+            "ageRange": null,
+            "etag": "%EgkBAgkLLjc9Pj8aBAECBQciDFh6Z3dRd0hjZ3lBPQ==",
+            "resourceName": "people\/c3312780358014643192",
+            "names": [
+                {
+                    "displayName": "Emily Johnson",
+                    "displayNameLastFirst": "Johnson, Emily",
+                    "familyName": "Johnson",
+                    "givenName": "Emily",
+                    "honorificPrefix": null,
+                    "honorificSuffix": null,
+                    "middleName": null,
+                    "phoneticFamilyName": null,
+                    "phoneticFullName": null,
+                    "phoneticGivenName": null,
+                    "phoneticHonorificPrefix": null,
+                    "phoneticHonorificSuffix": null,
+                    "phoneticMiddleName": null,
+                    "unstructuredName": "Emily Johnson",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "2df95c2f0a5aabf8",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "emailAddresses": [
+                {
+                    "displayName": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "emily.johnson@example.com",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "2df95c2f0a5aabf8",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "canonicalForm": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "(555) 123-4567",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "2df95c2f0a5aabf8",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "ageRange": null,
+            "etag": "%EgkBAgkLLjc9Pj8aBAECBQciDFUvdmNKNUU0UllJPQ==",
+            "resourceName": "people\/c4620388481402258090",
+            "names": [
+                {
+                    "displayName": "Michael Anderson",
+                    "displayNameLastFirst": "Anderson, Michael",
+                    "familyName": "Anderson",
+                    "givenName": "Michael",
+                    "honorificPrefix": null,
+                    "honorificSuffix": null,
+                    "middleName": null,
+                    "phoneticFamilyName": null,
+                    "phoneticFullName": null,
+                    "phoneticGivenName": null,
+                    "phoneticHonorificPrefix": null,
+                    "phoneticHonorificSuffix": null,
+                    "phoneticMiddleName": null,
+                    "unstructuredName": "Michael Anderson",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "401eead80e49c2aa",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "emailAddresses": [
+                {
+                    "displayName": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "michael.anderson@example.com",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "401eead80e49c2aa",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "canonicalForm": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "(555) 987-6543",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "401eead80e49c2aa",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "ageRange": null,
+            "etag": "%EgkBAgkLLjc9Pj8aBAECBQciDFB1Y3k1TlRTNGhJPQ==",
+            "resourceName": "people\/c9209803011344574706",
+            "names": [
+                {
+                    "displayName": "Sophia Martinez",
+                    "displayNameLastFirst": "Martinez, Sophia",
+                    "familyName": "Martinez",
+                    "givenName": "Sophia",
+                    "honorificPrefix": null,
+                    "honorificSuffix": null,
+                    "middleName": null,
+                    "phoneticFamilyName": null,
+                    "phoneticFullName": null,
+                    "phoneticGivenName": null,
+                    "phoneticHonorificPrefix": null,
+                    "phoneticHonorificSuffix": null,
+                    "phoneticMiddleName": null,
+                    "unstructuredName": "Sophia Martinez",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7fcfcb0b0e8428f2",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "emailAddresses": [
+                {
+                    "displayName": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "sophia.martinez@example.com",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7fcfcb0b0e8428f2",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "canonicalForm": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "(555) 567-8901",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7fcfcb0b0e8428f2",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "ageRange": null,
+            "etag": "%EgkBAgkLLjc9Pj8aBAECBQciDHVYd1BlTDE5dGhZPQ==",
+            "resourceName": "people\/c8746223985283216949",
+            "names": [
+                {
+                    "displayName": "Benjamin Davis",
+                    "displayNameLastFirst": "Davis, Benjamin",
+                    "familyName": "Davis",
+                    "givenName": "Benjamin",
+                    "honorificPrefix": null,
+                    "honorificSuffix": null,
+                    "middleName": null,
+                    "phoneticFamilyName": null,
+                    "phoneticFullName": null,
+                    "phoneticGivenName": null,
+                    "phoneticHonorificPrefix": null,
+                    "phoneticHonorificSuffix": null,
+                    "phoneticMiddleName": null,
+                    "unstructuredName": "Benjamin Davis",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7960d46008ceb635",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "emailAddresses": [
+                {
+                    "displayName": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "benjamin.davis@example.com",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7960d46008ceb635",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "canonicalForm": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "(555) 234-5678",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "7960d46008ceb635",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "ageRange": null,
+            "etag": "%EgkBAgkLLjc9Pj8aBAECBQciDEZ2dHgvZTVSa0Z3PQ==",
+            "resourceName": "people\/c4441561017555865324",
+            "names": [
+                {
+                    "displayName": "Olivia Smith",
+                    "displayNameLastFirst": "Smith, Olivia",
+                    "familyName": "Smith",
+                    "givenName": "Olivia",
+                    "honorificPrefix": null,
+                    "honorificSuffix": null,
+                    "middleName": null,
+                    "phoneticFamilyName": null,
+                    "phoneticFullName": null,
+                    "phoneticGivenName": null,
+                    "phoneticHonorificPrefix": null,
+                    "phoneticHonorificSuffix": null,
+                    "phoneticMiddleName": null,
+                    "unstructuredName": "Olivia Smith",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "3da398368ba3ceec",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "emailAddresses": [
+                {
+                    "displayName": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "olivia.smith@example.com",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "3da398368ba3ceec",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "canonicalForm": null,
+                    "formattedType": null,
+                    "type": null,
+                    "value": "(555) 876-5432",
+                    "metadata": {
+                        "primary": true,
+                        "sourcePrimary": null,
+                        "verified": null,
+                        "source": {
+                            "etag": null,
+                            "id": "3da398368ba3ceec",
+                            "type": "CONTACT",
+                            "updateTime": null
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "status": "success",
+    "status_code": 200,
+    "code": "P2A4N9",
+    "message": "User contact was retrieved"
+}
